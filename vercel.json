@@ -1,6 +1,6 @@
 {
   "rewrites": [
     { "source": "/favicon.ico", "destination": "./favicon.ico" },
-    { "source": "/(.*)", "destination": "https://www.google.com/$1"}
+    { "source": "/(.*)", "destination": "https://twitter.com/$1"}
 	]
 }
