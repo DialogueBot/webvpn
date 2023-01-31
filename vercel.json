@@ -1,6 +1,7 @@
 {
   "rewrites": [
     { "source": "/favicon.ico", "destination": "https://juicy.vercel.app/favicon.ico" },
-    { "source": "/(.*)", "destination": "https://audiomack.com/$1"}
+    // { "source": "/(.*)", "destination": "https://audiomack.com/$1"},
+    { "source": "/google", "destination": "https://www.google.com/$1"}
   ]
 }
