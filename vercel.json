@@ -1,6 +1,6 @@
 {
   "rewrites": [
     { "source": "/favicon.ico", "destination": "https://juicy.vercel.app/favicon.ico" },
-    { "source": "/:match*", "destination": "https://:match*"}
+    { "source": "/:match*", "destination": "https://www.google.com/:match*"}
 	]
 }
