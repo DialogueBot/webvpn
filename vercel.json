@@ -2,6 +2,6 @@
   "rewrites": [
     { "source": "/favicon.ico", "destination": "https://juicy.vercel.app/favicon.ico" },
     { "source": "/google", "destination": "https://www.google.com"},
-    { "source": "/pornhub", "destination": "https://www.pornhub.com"}
+    { "source": "/pornhub", "destination": "https://cn.pornhub.com"}
 	]
 }
