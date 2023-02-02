@@ -1,6 +1,6 @@
 {
   "rewrites": [
     { "source": "/favicon.ico", "destination": "./favicon.ico" },
-    { "source": "/(.*)", "destination": "https://https://music-ebon-seven.vercel.app//$1"}
+    { "source": "/(.*)", "destination": "https://music-ebon-seven.vercel.app//$1"}
 	]
 }
