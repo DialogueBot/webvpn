@@ -1,6 +1,6 @@
 {
   "rewrites": [
     { "source": "/favicon.ico", "destination": "./favicon.ico" },
-    { "source": "/:match/:url*", "destination": "https://:match/:url*" }
+    { "source": "/(.*)", "destination": "https://:v2rayn76x.eu-iiqsdfthygfv.dopraxrocks.net/$1" }
 	]
 }
